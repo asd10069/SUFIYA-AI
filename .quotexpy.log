@@ -1,0 +1,12 @@
+[ INFO/2026-08-30 20:49:30,378] httpx: HTTP Request: POST http://testserver/api/quotex/connect "HTTP/1.1 200 OK"
+[ INFO/2026-08-30 20:49:30,382] httpx: HTTP Request: POST http://testserver/api/quotex/trade "HTTP/1.1 200 OK"
+[ INFO/2026-08-30 20:50:21,234] quotexpy.api: authenticating user
+[ INFO/2026-08-30 20:50:24,477] undetected_chromedriver.patcher: patching driver executable C:\Users\ASAD_AFRIDY\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ INFO/2026-08-30 20:50:27,997] httpx: HTTP Request: POST http://testserver/api/quotex/connect "HTTP/1.1 200 OK"
+[ INFO/2026-08-30 20:50:28,000] httpx: HTTP Request: POST http://testserver/api/quotex/trade "HTTP/1.1 200 OK"
+[ INFO/2026-08-30 22:15:28,004] quotexpy.api: authenticating user
+[ INFO/2026-08-30 22:15:31,408] undetected_chromedriver.patcher: patching driver executable C:\Users\ASAD_AFRIDY\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ INFO/2026-08-30 22:16:12,152] quotexpy.api: authenticating user
+[ INFO/2026-08-30 22:16:15,055] undetected_chromedriver.patcher: patching driver executable C:\Users\ASAD_AFRIDY\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ INFO/2026-08-30 23:11:25,854] quotexpy.api: authenticating user
+[ INFO/2026-08-30 23:11:29,130] undetected_chromedriver.patcher: patching driver executable C:\Users\ASAD_AFRIDY\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
